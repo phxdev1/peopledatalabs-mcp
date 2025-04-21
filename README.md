@@ -2,6 +2,10 @@
 
 This is a Model Context Protocol (MCP) server that wraps the [People Data Labs API](https://docs.peopledatalabs.com/). It provides comprehensive access to People Data Labs' various data models and search capabilities.
 
+<a href="https://glama.ai/mcp/servers/@phxdev1/peopledatalabs-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@phxdev1/peopledatalabs-mcp/badge" alt="People Data Labs Server MCP server" />
+</a>
+
 ## Features
 
 ### Person API
