@@ -265,4 +265,4 @@ Get autocomplete suggestions for a partial query.
 
 ## License
 
-ISC
+Apache 2.0
